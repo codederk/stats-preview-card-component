@@ -1,0 +1,22 @@
+:root {
+  // Colors
+  --color-main-background: #{$color-main-background};
+  --color-card-surface: #{$color-card-surface};
+  --color-accent: #{$color-accent};
+  --color-main-paragraph: #{$color-main-paragraph};
+  --color-stat-heading: #{$color-stat-heading};
+  --color-white: #{$color-white};
+
+  // Body
+  --body-font-family: #{$body-font-family};
+  --body-font-size: #{$body-font-size};
+  --body-font-weight: #{$body-font-weight};
+  --body-line-height: #{$body-line-height};
+  --body-bg-color: #{$body-bg-color};
+  --body-color: #{$body-color};
+
+  --font-small: #{$font-small};
+
+  // --button-box-shadow: #{$box-shadow};
+  // --card-box-shadow: #{$card-box-shadow};
+}
